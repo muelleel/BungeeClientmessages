@@ -1,0 +1,4 @@
+name: BungeeSniffer
+main: eu.mhsl.minecraft.bungeesniffer.BungeeSniffer
+version: 1.0
+author: MineTec

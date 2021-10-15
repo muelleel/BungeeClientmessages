@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="waterfall-1.17-451">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ClientBlocker/run/proxy/waterfall-1.17-451.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
